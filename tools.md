@@ -1,3 +1,3 @@
 - [ ] [GEO Optimizer Skill](https://github.com/Auriti-Labs/geo-optimizer-skill)
 - [ ] [IsAgentReady](https://isitagentready.com/)
-- [ ] [Mail Tester][https://mail-tester.com/]
+- [ ] [Mail Tester](https://mail-tester.com/)
